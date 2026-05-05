@@ -8,14 +8,11 @@ how is this?
 - i use void linux
 
 ## discord 
-![My Skills](https://skillicons.dev/icons?i=discord)
-
 - link: https://discord.gg/ZaXdn6Qm5T
 
-
 ## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderarch&show_icons=true&theme=dark&bg_color=000000&icon_color=ffffff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spidervo1d&show_icons=true&theme=dark&bg_color=000000&icon_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderarch&layout=compact&theme=dark&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spidervo1d&layout=compact&theme=dark&bg_color=000000)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spiderarch&theme=high-contrast)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spidervo1d&theme=high-contrast)
