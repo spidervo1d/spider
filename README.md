@@ -5,7 +5,7 @@ how is this?
 
 - my goal is to be a computer engineer specializing in cybersecurity
 
-- i use arch linux on hyprland with caelestia shell
+- i use void linux
 
 ## discord 
 ![My Skills](https://skillicons.dev/icons?i=discord)
